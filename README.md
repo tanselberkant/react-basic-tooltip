@@ -2,6 +2,10 @@
 
 A lightweight, customizable React tooltip component with multiple positioning options and themes.
 
+## Demo
+
+Check out the [live demo](https://tanselberkant.github.io/react-basic-tooltip/) to see the tooltip in action.
+
 ## Features
 
 - 🎨 8 Different positioning options
