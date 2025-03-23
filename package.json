@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tanselberkant/react-basic-tooltip"
+    "url": "git+https://github.com/tanselberkant/react-basic-tooltip.git"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
